@@ -1,0 +1,1856 @@
+repo_name: huhuhuHR/KnowStreaming
+report_id: 25817a8af80087974a5869fce4b65175
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-02T01:31:22+00:00'
+requested_by: ZQKC
+provider: github
+branch: master
+detected_tools_count: 139
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: Mustache
+  description: Logic-less templates
+  website_url: http://mustache.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1142/197655.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-dist/init/sql/ddl-ks-km.sql
+  detection_source: km-dist/init/sql/ddl-ks-km.sql
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Smarty
+  description: Template engine for PHP
+  website_url: http://www.smarty.net/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/3693/smarty.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: Less
+  description: The dynamic stylesheet language
+  website_url: http://lesscss.org/
+  version: 3.9.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1170/default_957cbc0168b4d37265e264469c888f776e57f42c.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: MobX
+  description: Simple, scalable state management
+  website_url: https://github.com/mobxjs/mobx
+  version: 4.15.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/5302/17475736.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-core/pom.xml
+  detection_source: km-core/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Kafka
+  description: Distributed, fault tolerant, high throughput pub-sub messaging system
+  website_url: http://kafka.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1063/kazUJooF_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: MariaDB
+  description: An enhanced, drop-in replacement for MySQL
+  website_url: https://mariadb.com/
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1615/mariadb-logo-400x400.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-persistence/pom.xml
+  detection_source: km-persistence/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-23 11:01:53.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: FindBugs
+  description: An open-source static code analyser
+  website_url: http://findbugs.sourceforge.net/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/2662/kWjFjx3K_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-28 07:46:34.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-03-19 09:59:34.000000000 Z
+- name: Kubernetes
+  description: Manage a cluster of Linux containers as a single system to accelerate
+    Dev and simplify Ops
+  website_url: http://kubernetes.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Container Tools
+  image_url: https://img.stackshare.io/service/1885/21_d3cvM.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-dist/helm/Chart.yaml
+  detection_source: km-dist/helm/Chart.yaml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Prometheus
+  description: An open-source service monitoring system and time series database,
+    developed by SoundCloud
+  website_url: http://prometheus.io/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Monitoring Tools
+  image_url: https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-extends/km-monitor/pom.xml
+  detection_source: km-extends/km-monitor/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.40.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Zookeeper
+  description: Because coordinating distributed systems is a Zoo
+  website_url: http://zookeeper.apache.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Open Source Service Discovery
+  image_url: https://img.stackshare.io/service/1528/apache-zookeeper.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-29 09:25:04.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/src/main/resources/application.yml
+  detection_source: km-rest/src/main/resources/application.yml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Lerna
+  description: A tool for managing JavaScript projects
+  website_url: https://lerna.js.org/
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.11
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.21.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: lint-staged
+  website_url: https://github.com/okonet/lint-staged
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10577/11071.jpeg
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: single-spa
+  description: The javascript metaframework
+  website_url: https://github.com/CanopyTax/single-spa
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6428/JSPM.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: crypto-js
+  description: JavaScript library of crypto standards
+  package_url: https://www.npmjs.com/crypto-js
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+  vulnerabilities:
+  - name: crypto-js PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times
+      weaker than current standard
+    cve_id: CVE-2023-46233
+    cve_url: https://github.com/advisories/GHSA-xwcq-pm8m-c4vf
+    detected_date: Oct 26
+    severity: critical
+    first_patched: 4.2.0
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.24.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+  vulnerabilities:
+  - name: 'Path Traversal: ''dir/../../filename'' in moment.locale'
+    cve_id: CVE-2022-24785
+    cve_url: https://github.com/advisories/GHSA-8hfj-j24r-96c4
+    detected_date: Apr 9
+    severity: high
+    first_patched: 2.29.2
+  - name: Moment.js vulnerable to Inefficient Regular Expression Complexity
+    cve_id: CVE-2022-31129
+    cve_url: https://github.com/advisories/GHSA-wc69-rhjr-hc9g
+    detected_date: Jul 7
+    severity: high
+    first_patched: 2.29.4
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.5.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-proposal-class-properties"
+  description: This plugin transforms static class properties as well as properties
+    declared with the property initializer syntax
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-class-properties
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15903/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-proposal-decorators"
+  description: Compile class and object decorators to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-decorators
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16147/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-proposal-export-default-from"
+  description: Compile export default to ES2015
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-export-default-from
+  version: 7.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16238/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-proposal-export-namespace-from"
+  description: Compile export namespace to ES2015
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-export-namespace-from
+  version: 7.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16312/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-proposal-object-rest-spread"
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-object-rest-spread
+  version: 7.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16001/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-proposal-optional-chaining"
+  description: Transform optional chaining operators into a series of nil checks
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-optional-chaining
+  version: 7.16.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16306/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-transform-modules-commonjs"
+  description: This plugin transforms ES2015 modules to CommonJS
+  package_url: https://www.npmjs.com/@babel/plugin-transform-modules-commonjs
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16321/default_17385ab3aa01d4c295c08d4a9736140df691c5e9.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/plugin-transform-object-assign"
+  description: Replace Object.assign with an inline helper
+  package_url: https://www.npmjs.com/@babel/plugin-transform-object-assign
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16888/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/polyfill"
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/@babel/polyfill
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.14.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@commitlint/cli"
+  description: Lint your commit messages
+  package_url: https://www.npmjs.com/@commitlint/cli
+  version: 13.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16059/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@commitlint/config-conventional"
+  description: Shareable commitlint config enforcing conventional commits
+  package_url: https://www.npmjs.com/@commitlint/config-conventional
+  version: 13.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16092/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@types/crypto-js"
+  description: TypeScript definitions for crypto-js
+  package_url: https://www.npmjs.com/@types/crypto-js
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17916/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.138
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.12.25
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 17.0.39
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 17.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: "@types/react-router-dom"
+  description: TypeScript definitions for React Router
+  package_url: https://www.npmjs.com/@types/react-router-dom
+  version: 5.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16557/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: "@types/react-transition-group"
+  description: TypeScript definitions for react-transition-group
+  package_url: https://www.npmjs.com/@types/react-transition-group
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17976/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.13.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 8.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: babel-plugin-import
+  description: Component modular import plugin for babel
+  package_url: https://www.npmjs.com/babel-plugin-import
+  version: 1.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16208/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: babel-preset-react-app
+  description: Babel preset used by Create React App
+  package_url: https://www.npmjs.com/babel-preset-react-app
+  version: 10.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16089/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: cache-loader
+  description: Caches the result of following loaders on disk
+  package_url: https://www.npmjs.com/cache-loader
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17685/default_43c2244142d473ead35e8e5c22850dfec0a06c35.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: case-sensitive-paths-webpack-plugin
+  description: Enforces module path case sensitivity in Webpack
+  package_url: https://www.npmjs.com/case-sensitive-paths-webpack-plugin
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16073/default_5fd43aeff4d6a935abc13737de01a0355210499d.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: clean-webpack-plugin
+  description: A webpack plugin to remove/clean your build folder
+  package_url: https://www.npmjs.com/clean-webpack-plugin
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16068/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: commitizen
+  description: Git commit, but play nice with conventions
+  package_url: https://www.npmjs.com/commitizen
+  version: 4.2.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16008/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: conventional-changelog-cli
+  description: Generate a changelog from git metadata
+  package_url: https://www.npmjs.com/conventional-changelog-cli
+  version: 2.1.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16260/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 5.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: happypack
+  description: Webpack speed booster, makes you happy!
+  package_url: https://www.npmjs.com/happypack
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17282/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 4.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: less-loader
+  description: A Less loader for webpack. Compiles Less to CSS
+  package_url: https://www.npmjs.com/less-loader
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15989/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: lint-staged
+  description: Lint files staged by git
+  package_url: https://www.npmjs.com/lint-staged
+  version: 10.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15868/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/package.json
+  detection_source: km-console/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: mobx-react
+  description: React bindings for MobX. Create fully reactive components
+  package_url: https://www.npmjs.com/mobx-react
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16661/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: optimize-css-assets-webpack-plugin
+  description: A Webpack plugin to optimize \ minimize CSS assets
+  package_url: https://www.npmjs.com/optimize-css-assets-webpack-plugin
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: progress-bar-webpack-plugin
+  description: A progress bar for Webpack
+  package_url: https://www.npmjs.com/progress-bar-webpack-plugin
+  version: 1.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16734/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: query-string
+  description: Parse and stringify URL query strings
+  package_url: https://www.npmjs.com/query-string
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16244/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: react-copy-to-clipboard
+  description: Copy-to-clipboard React component
+  package_url: https://www.npmjs.com/react-copy-to-clipboard
+  version: 5.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17254/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/layout-clusters-fe/package.json
+  detection_source: km-console/packages/layout-clusters-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: react-intl
+  description: Internationalize React apps
+  package_url: https://www.npmjs.com/react-intl
+  version: 3.2.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16566/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: GraceWalk
+  last_updated_on: 2022-08-26 09:42:09.000000000 Z
+- name: stats-webpack-plugin
+  description: Write the stats of a build to a file
+  package_url: https://www.npmjs.com/stats-webpack-plugin
+  version: 0.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18616/default_632bbfb948e0ea8f8e1cc2caaa8946b66a13d200.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: ts-loader
+  description: TypeScript loader for webpack
+  package_url: https://www.npmjs.com/ts-loader
+  version: 8.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: webpack-cli
+  description: CLI for webpack &amp; friends
+  package_url: https://www.npmjs.com/webpack-cli
+  version: 3.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: webpack-merge
+  description: Variant of merge that's useful for webpack configuration
+  package_url: https://www.npmjs.com/webpack-merge
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-console/packages/config-manager-fe/package.json
+  detection_source: km-console/packages/config-manager-fe/package.json
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: com.alibaba:fastjson
+  description: Fastjson is a JSON processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-29 09:25:04.000000000 Z
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: com.github.ben-manes.caffeine:caffeine
+  description: A high performance caching library for Java 8+
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-29 09:25:04.000000000 Z
+- name: com.google.code.findbugs:jsr305
+  description: JSR305 Annotations for Findbugs
+  version: 3.0.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: commons-beanutils:commons-beanutils
+  description: Apache Commons BeanUtils provides an easy-to-use but flexible wrapper
+    around reflection and introspection
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: commons-codec:commons-codec
+  description: The Apache Commons Codec package contains simple encoder and decoders
+    for various formats such as Base64 and Hexadecimal
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-29 09:25:04.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: commons-lang:commons-lang
+  description: Commons Lang
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-29 09:25:04.000000000 Z
+- name: io.dropwizard.metrics:metrics-core
+  description: Metrics is a Java library which gives you unparalleled insight into
+    what your code does in production
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/pom.xml
+  detection_source: km-rest/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: io.micrometer:micrometer-registry-prometheus
+  description: Application monitoring instrumentation facade
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-extends/km-monitor/pom.xml
+  detection_source: km-extends/km-monitor/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: io.springfox:springfox-swagger-ui
+  description: JSON API documentation for spring based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: io.springfox:springfox-swagger2
+  description: JSON API documentation for spring based applications
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: io.swagger:swagger-annotations
+  description: Examples and server integrations for generating the Swagger API Specification
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-29 09:25:04.000000000 Z
+- name: javax.annotation:javax.annotation-api
+  description: Common Annotations for the JavaTM Platform API
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-28 07:46:34.000000000 Z
+- name: javax.servlet:javax.servlet-api
+  description: Java.net - The Source for Java Technology Collaboration
+  license: GPL-2.0-with-classpath-exception
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-09-28 07:46:34.000000000 Z
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2020-03-19 09:59:34.000000000 Z
+- name: net.sf.jopt-simple:jopt-simple
+  description: A Java library for parsing command line options
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.apache.commons:commons-pool2
+  description: The Apache Commons Object Pooling Library
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.apache.kafka:kafka-clients
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.apache.zookeeper:zookeeper
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.eclipse.jetty:jetty-util
+  description: Utility classes for Jetty
+  license: Apache-2.0,EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.hibernate.validator:hibernate-validator
+  description: Hibernate's Bean Validation
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.mariadb.jdbc:mariadb-java-client
+  description: JDBC driver for MariaDB and MySQL
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-persistence/pom.xml
+  detection_source: km-persistence/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-common/pom.xml
+  detection_source: km-common/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-aop
+  description: Starter for aspect-oriented programming with Spring AOP and AspectJ
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-core/pom.xml
+  detection_source: km-core/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-logging
+  description: Starter for logging using Logback. Default logging starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/pom.xml
+  detection_source: km-rest/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-core/pom.xml
+  detection_source: km-core/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-thymeleaf
+  description: Starter for building MVC web applications using Thymeleaf views
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/pom.xml
+  detection_source: km-rest/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-validation
+  description: Starter for using Java Bean Validation with Hibernate Validator
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/pom.xml
+  detection_source: km-rest/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/pom.xml
+  detection_source: km-rest/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework:spring-context
+  description: Spring Context
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework:spring-context-support
+  description: Spring Context Support
+  version: 5.3.18
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-rest/pom.xml
+  detection_source: km-rest/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework:spring-test
+  description: Spring TestContext Framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework:spring-web
+  description: Spring Web
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-biz/pom.xml
+  detection_source: km-biz/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
+- name: org.springframework:spring-webmvc
+  description: Spring Web MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/huhuhuHR/KnowStreaming/blob/master/km-collector/pom.xml
+  detection_source: km-collector/pom.xml
+  last_updated_by: zengqiao
+  last_updated_on: 2022-08-18 09:04:05.000000000 Z
